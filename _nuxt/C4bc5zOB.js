@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as e,a1 as r,o as l}from"./DLlpTXNY.js";const s={};function u(n,a){return l(),t("div",null,[a[0]||(a[0]=e("header",null,[e("h1",null,"About Us")],-1)),e("main",null,[r(n.$slots,"default")])])}const d=o(s,[["render",u]]);export{d as default};
